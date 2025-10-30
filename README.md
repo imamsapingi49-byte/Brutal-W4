@@ -8,8 +8,8 @@ Script termux spam chat wangsaf terbaru !
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/Brutal-W4
-$ cd Brutal-W4
+$ git clone https://github.com/Sxp-ID/Imamcper-W4
+$ cd Imamcper-W4
 $ make install
 $ ./main
 
@@ -21,7 +21,7 @@ $ make run
 ## Full tutorialnya?
 - Link video v1 (old) <code><a href="https://youtu.be/xgbzAI2qPR4?si=F2cdURIIiI9t93Sx">klik disini</a></code>
 - Link video v2 (new) <code><a href="https://youtu.be/uQ65GUhsAX8?si=tLzKvC6s-oCRRI31">klik disini</a></code>
-- Subs yt admin <code><a href="https://youtube.com/@freetutorialofficial">FREE TUTORIAL</a></code>
+- Subs yt admin <code><a href="https://youtube.com/@freetutorialofficial">IMAM CEPER</a></code>
 <div align="center">
   
 ### Jgn lupa kasih star masbro !
